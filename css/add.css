@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+/* Add your custom styles here */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container-fluid {
+    margin-top: 30px;
+}
+
+.card {
+    border: 1px solid #d1d3e2;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    color: #495057;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: rgb(128, 0, 128);
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: rgb(255, 0, 255);
+}
+
+/* Add more styles as needed */
+
